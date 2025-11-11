@@ -150,4 +150,3 @@ The Excel dashboard includes:
 
 ---
 
-*Repository prepared for upload — copy this folder directly into a GitHub repository for a professional project presentation.*
