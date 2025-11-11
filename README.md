@@ -145,8 +145,8 @@ The Excel dashboard includes:
 
 ## 👨‍💻 Author & Contact
 **Anand Yadav**  
-📧 [your-email@example.com]  
-📅 Project Year: 2025
+ 📧 yanand7977@gmail.com
+ 📅 Project Year: 2025
 
 ---
 
